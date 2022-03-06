@@ -1,7 +1,13 @@
-<h1>Hi 👋, I'm Lam</h1>
-<h3>A full-stack developer from Viet Nam. I'm currently living and working in Italy</h3>
+<h1>Hello folks 👋 My name is Lam</h1>
+<h3>I'm a full-stack developer from Viet Nam. I'm currently living and working in Italy</h3>
 
-- 📫 Email: **lamdinhreply@gmail.com**
+- 🏢 I’m currently working at: **Exalto Energy & Innovation S.r.l**
+
+- 🌱 Learning about: **React, Laravel Livewire**
+
+- 📫 Reach me: **lamdinhreply@gmail.com**
+
+- ⚡ Fun fact: **I'm a full-time developer and part-time eater 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
